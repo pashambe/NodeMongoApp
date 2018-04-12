@@ -1,0 +1,22 @@
+{
+  "name": "nodeapp1204",
+  "version": "0.0.0",
+  "description": "Otpravka dannih c form https://habrahabr.ru/company/ruvds/blog/321104/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Pavel V.",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongodb": "^3.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
