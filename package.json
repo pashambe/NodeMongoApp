@@ -4,9 +4,6 @@
   "description": "Otpravka dannih c form https://habrahabr.ru/company/ruvds/blog/321104/",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "scripts": {
     "dev": "nodemon server.js"
   },
   "author": "Pavel V.",
